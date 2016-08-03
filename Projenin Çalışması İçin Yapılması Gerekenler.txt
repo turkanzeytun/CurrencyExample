@@ -1,0 +1,18 @@
+*script.sql dosyasý Sql Server da execute edildikten sonra "CurrencyDataDB" isimli bir database in oluþmasý gerekmektedir. Bu dosya içinde döviz kurlarý çekilecek olan döviz türleri ve kodlamada ekleme veri çekme iþlemlerinde kullanýlacak SP ler bulunmaktadýr.
+
+*Projeler Visual Studio ortamýnda çalýþtýrýlabilir.
+
+*Proje içinde çalýþtýrýlacak ve ortak kütüphaneleri kullanan 2 proje bulunmaktadýr. 1. si "CurrencyData.ConsoleApplicationUI" projesidir. Bu application Merkez Banksýndan güncel verileri alýr ve dakikada bir veritabanýna kaydeder. Sürekli çalýþmasý gerekmektedir. 2. si "CurrencyData.MvcApplicationUI" web uygulamasýdýr. Bu uygulamada localhostta çalýþtýðý zaman database deki en son eklenen son döviz bilgilerini kullanýcýya getirmektedir.
+
+*Uygulamalarý çalýþtýrmadan önce database baðlantýlarýnýn çalýþacak sunucu bilgileri ile deðiþtirilmesi gerekir. "CurrencyData.Code", "CurrencyData.ConsoleApplicationUI" ve "CurrencyData.MvcApplicationUI" uygulamalarý içindeki config dosyalarýnda connectionstring cümlesi içinde sunucu bilgileri deðiþtirilmelidir.
+
+*Uygulamanýn çalýþmasý için "CurrencyData.ConsoleApplicationUI" application un sürekli çalýþmasý gerekmekte. Ancak döviz bilgileri sürekli deðiþmediði için bir kere çalýþtýrýp kapatýlabilir. 
+
+"CurrencyData.MvcApplicationUI" application çalýþtýðýnda url kýsmýna "http://localhost:60594/Currency/Index" yazmamýz ile verilerin gelmesi gerekmektedir. Dakikada bir burda da veriler güncellenecektir. Console application kapalý olduðu için ve döviz bilgileride anlýk deðiþmediði için proje test edilirken direk database den veriler deðiþtirilebilir. anýnda web uygulamasýnda da veriler güncellenecektir.
+
+*Proje de katmanlý mimari kullanýlmýþtýr. Katmanlý yapýda Console Application Ado.Net ile çalýþmaktadýr. MVC Web Application ise Entity Framework ORM ile çalýþmaktadýr. Ýstendiði taktirde hýzlý geçiþlerle ORM deðiþikliði mümkündür. 
+
+*Projede tasarýmsal bir çalýþma yapýlmamýþtýr. Gerekli görüldüðü taktirde eklenebilir. Sadece sayfa yineleme için jQuery ajax kütüphanesinden faydalanýlmýþtýr.
+
+
+Teþekkürler :)

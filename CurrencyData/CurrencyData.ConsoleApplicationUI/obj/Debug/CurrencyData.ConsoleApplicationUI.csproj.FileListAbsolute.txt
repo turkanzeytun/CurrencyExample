@@ -1,0 +1,22 @@
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.ConsoleApplicationUI.exe.config
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.ConsoleApplicationUI.exe
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.ConsoleApplicationUI.pdb
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Code.dll
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Entites.dll
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Code.pdb
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Entites.pdb
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\obj\Debug\CurrencyData.ConsoleApplicationUI.csprojResolveAssemblyReference.cache
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\obj\Debug\CurrencyData.ConsoleApplicationUI.exe
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\obj\Debug\CurrencyData.ConsoleApplicationUI.pdb
+c:\users\turkan\documents\visual studio 2013\Projects\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\EntityFramework.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\obj\Debug\CurrencyData.ConsoleApplicationUI.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.ConsoleApplicationUI.exe.config
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.ConsoleApplicationUI.exe
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.ConsoleApplicationUI.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Code.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\EntityFramework.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Code.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\bin\Debug\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\obj\Debug\CurrencyData.ConsoleApplicationUI.exe
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.ConsoleApplicationUI\obj\Debug\CurrencyData.ConsoleApplicationUI.pdb

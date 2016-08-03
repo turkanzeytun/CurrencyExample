@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@*dakiikada bir yeni döviz bilgileri çekilecek*@
+<div id="rates_list">@Html.Action("RatesListPartial", "Currency") </div>
+
+
+<script type="text/javascript">
+    window.setInterval(function () {
+        var updateUrl = '@Url.Action("RatesListPartial", "Currency")';
+        $.get(updateUrl, function (result) {
+            $('#rates_list').html(result);
+        });
+    }, 60000);
+</script>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.Code", "CurrencyData.Code\CurrencyData.Code.csproj", "{B6C61DDE-7A97-4DC0-9140-F5303C3B55C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.ConsoleApplicationUI", "CurrencyData.ConsoleApplicationUI\CurrencyData.ConsoleApplicationUI.csproj", "{88E10829-AD19-471C-A06E-ED744A35BBE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.Interfaces", "CurrencyData.Interfaces\CurrencyData.Interfaces.csproj", "{7C6BC68D-C8B7-4959-A41B-B7F4C691E628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.BLL", "CurrencyData.BLL\CurrencyData.BLL.csproj", "{EC230481-4DD8-45F3-B9D7-679E656EBDBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.MvcApplicationUI", "CurrencyData.MvcApplicationUI\CurrencyData.MvcApplicationUI.csproj", "{7EADC39D-87CD-4853-8A4B-F31C8D234F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.MvcApplicationUI.Tests", "CurrencyData.MvcApplicationUI.Tests\CurrencyData.MvcApplicationUI.Tests.csproj", "{280169CB-2611-4F3F-9F89-71CB13050A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyData.Model", "CurrencyData.Model\CurrencyData.Model.csproj", "{592616F2-FD18-47CC-AF40-3C27B39E8521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C61DDE-7A97-4DC0-9140-F5303C3B55C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C61DDE-7A97-4DC0-9140-F5303C3B55C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C61DDE-7A97-4DC0-9140-F5303C3B55C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C61DDE-7A97-4DC0-9140-F5303C3B55C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E10829-AD19-471C-A06E-ED744A35BBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E10829-AD19-471C-A06E-ED744A35BBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E10829-AD19-471C-A06E-ED744A35BBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E10829-AD19-471C-A06E-ED744A35BBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6BC68D-C8B7-4959-A41B-B7F4C691E628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6BC68D-C8B7-4959-A41B-B7F4C691E628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6BC68D-C8B7-4959-A41B-B7F4C691E628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6BC68D-C8B7-4959-A41B-B7F4C691E628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC230481-4DD8-45F3-B9D7-679E656EBDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC230481-4DD8-45F3-B9D7-679E656EBDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC230481-4DD8-45F3-B9D7-679E656EBDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC230481-4DD8-45F3-B9D7-679E656EBDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EADC39D-87CD-4853-8A4B-F31C8D234F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EADC39D-87CD-4853-8A4B-F31C8D234F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EADC39D-87CD-4853-8A4B-F31C8D234F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EADC39D-87CD-4853-8A4B-F31C8D234F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280169CB-2611-4F3F-9F89-71CB13050A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280169CB-2611-4F3F-9F89-71CB13050A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280169CB-2611-4F3F-9F89-71CB13050A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280169CB-2611-4F3F-9F89-71CB13050A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592616F2-FD18-47CC-AF40-3C27B39E8521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592616F2-FD18-47CC-AF40-3C27B39E8521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592616F2-FD18-47CC-AF40-3C27B39E8521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592616F2-FD18-47CC-AF40-3C27B39E8521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

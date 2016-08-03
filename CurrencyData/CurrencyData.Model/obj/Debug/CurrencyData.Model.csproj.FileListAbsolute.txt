@@ -1,0 +1,8 @@
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.Model\bin\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.Model\bin\Debug\CurrencyData.Model.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.Model\obj\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.Model\obj\Debug\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.Model\bin\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.Model\bin\Debug\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.Model\obj\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.Model\obj\Debug\CurrencyData.Model.pdb

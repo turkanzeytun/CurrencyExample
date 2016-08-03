@@ -1,0 +1,74 @@
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\obj\Debug\CurrencyData.MvcApplicationUI.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.MvcApplicationUI.dll.config
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.MvcApplicationUI.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.MvcApplicationUI.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\Antlr3.Runtime.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.BLL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Code.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Interfaces.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\EntityFramework.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\Newtonsoft.Json.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Net.Http.Formatting.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Http.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Http.WebHost.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Mvc.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Optimization.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Providers.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Razor.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\WebGrease.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.BLL.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Code.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Interfaces.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\EntityFramework.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\Newtonsoft.Json.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Net.Http.Formatting.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Http.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Http.WebHost.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Mvc.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Razor.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\obj\Debug\CurrencyData.MvcApplicationUI.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\obj\Debug\CurrencyData.MvcApplicationUI.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Model.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.MvcApplicationUI.dll.config
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.MvcApplicationUI.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.MvcApplicationUI.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\Antlr3.Runtime.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.BLL.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Code.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Interfaces.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Model.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\EntityFramework.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\Newtonsoft.Json.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Mvc.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Optimization.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Providers.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Razor.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\WebGrease.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.BLL.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Code.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Interfaces.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\EntityFramework.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\Newtonsoft.Json.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Mvc.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.Razor.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\obj\Debug\CurrencyData.MvcApplicationUI.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\obj\Debug\CurrencyData.MvcApplicationUI.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.MvcApplicationUI\obj\Debug\CurrencyData.MvcApplicationUI.pdb

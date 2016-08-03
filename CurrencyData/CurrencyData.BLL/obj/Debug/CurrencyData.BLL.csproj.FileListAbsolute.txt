@@ -1,0 +1,24 @@
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.BLL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.BLL.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Code.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Interfaces.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\EntityFramework.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Code.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Interfaces.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\obj\Debug\CurrencyData.BLL.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\obj\Debug\CurrencyData.BLL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\obj\Debug\CurrencyData.BLL.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.BLL.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.BLL.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Code.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Interfaces.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Model.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\EntityFramework.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Code.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Interfaces.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\bin\Debug\CurrencyData.Model.pdb
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\obj\Debug\CurrencyData.BLL.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\obj\Debug\CurrencyData.BLL.dll
+C:\Users\TURKAN\Desktop\Outlook.com (5)\CurrencyData\CurrencyData\CurrencyData.BLL\obj\Debug\CurrencyData.BLL.pdb
