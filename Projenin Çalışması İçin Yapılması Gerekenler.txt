@@ -15,4 +15,4 @@
 *Projede tasarýmsal bir çalýþma yapýlmamýþtýr. Gerekli görüldüðü taktirde eklenebilir. Sadece sayfa yineleme için jQuery ajax kütüphanesinden faydalanýlmýþtýr.
 
 
-Teþekkürler :)
+Teþekkürler
